@@ -57,3 +57,7 @@ npm run package-mac
 ## Credits
 
 - [Google Bard](https://bard.google.com/)
+
+## Author
+
+- [Mantresh Khurana](https://github.com/mantreshkhurana)
