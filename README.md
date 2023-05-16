@@ -2,7 +2,7 @@
 
 # Google Bard Desktop App
 
-[![GitHub stars](https://img.shields.io/github/stars/mantreshkhurana/Google-Bard-electron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mantreshkhurana/Google-Bard-electron)
+![Stars](https://img.shields.io/github/stars/mantreshkhurana/Google-Bard-electron?style=social)
 
 This is a desktop app for [Google Bard](https://bard.google.com/), a chatbot that uses GPT-3 to have conversations with you.
 
