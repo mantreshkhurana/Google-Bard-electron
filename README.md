@@ -10,9 +10,9 @@ This is a desktop app for [Google Bard](https://bard.google.com/), a chatbot tha
 
 ## Downloads
 
-- [Windows (90 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-windows.zip)
-- [macOS (84 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-darwin.zip)
-- [Linux (66 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-linux.tar.xz)
+- [Windows (95 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-windows.zip)
+- [macOS (89 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-darwin.zip)
+- [Linux (69 MB)](https://github.com/mantreshkhurana/Google-Bard-electron/releases/download/1.0.0/Google-Bard-v1.0.0-linux.tar.xz)
 
 ## Releases
 
