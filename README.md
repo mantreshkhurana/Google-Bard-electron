@@ -4,7 +4,7 @@
 
 ![Stars](https://img.shields.io/github/stars/mantreshkhurana/Google-Bard-electron?style=social)
 
-This is a desktop app for [Google Bard](https://bard.google.com/), a chatbot that uses GPT-3 to have conversations with you.
+This is a desktop app for [Google Bard](https://bard.google.com/), a chatbot that uses Generative AI to have conversations with you.
 
 ![Screenshot](https://raw.githubusercontent.com/mantreshkhurana/Google-Bard-electron/stable/screenshots/screenshot-1.png)
 
