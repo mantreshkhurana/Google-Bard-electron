@@ -1,6 +1,3 @@
-Sure, let's enhance the README to make it more visually appealing and organized:
-
-
 <p align="center">
   <img src="./assets/icons/png/favicon.png" width="100" height="100">
 </p>
